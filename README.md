@@ -1,2 +1,0 @@
-# sugarlabs
-Tria project
